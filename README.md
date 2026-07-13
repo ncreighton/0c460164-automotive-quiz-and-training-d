@@ -1,2 +1,34 @@
-# 0c460164-automotive-quiz-and-training-d
-Professional automotive automation bot — without the professional price tag.  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Automotive Quiz And Training — fully configured and ready to use - Slash command interface for all major functions
+# Automotive Quiz and Training Discord Bot
+
+Interactive quizzes, skill assessments, leaderboards, and certification tracking. Gamified learning for Automotive teams.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu4gz3aL1g0e008nGcZL0f)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu4gz3aL1g0e008nGcZL0f)
+
